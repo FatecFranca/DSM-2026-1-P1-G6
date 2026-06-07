@@ -56,3 +56,5 @@ Autores
 -------
 - [@MateusC2](https://github.com/MateusC2)
 - [@mariajuliacintra](https://github.com/mariajuliacintra)
+- [@MariaFernandaCintra](https://github.com/MariaFernandaCintra)
+- [@milenaccustodio](https://github.com/milenaccustodio)
